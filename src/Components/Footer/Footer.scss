@@ -1,0 +1,26 @@
+.footer {
+  min-height: 20vh;
+  padding-top: 2rem;
+  background-color: rosybrown;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  input,
+  button {
+    border-radius: 0.2rem;
+  }
+
+  .footer-details {
+    display: flex;
+
+    .detail {
+      margin: 0 0.9rem;
+      p {
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        color: white;
+      }
+    }
+  }
+}

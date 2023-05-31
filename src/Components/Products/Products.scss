@@ -1,0 +1,50 @@
+.products-container {
+  .products-row {
+    p {
+      text-transform: uppercase;
+      font-size: 0.7rem;
+      padding: 1rem;
+    }
+
+    p,
+    h2 {
+      text-align: center;
+    }
+
+    height: auto;
+    .card-group {
+      background-color: antiquewhite;
+
+      .card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+        margin-top: 2rem;
+        background-color: antiquewhite;
+        border: none;
+
+        .living-room {
+          background-image: url(../../images/living.jpg);
+        }
+        .bed-room {
+          background-image: url(../../images/bed.jpg);
+        }
+        .bath-room {
+          background-image: url(../../images/bath.jpg);
+        }
+        .card-img-top {
+          height: 200px;
+          width: 200px;
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center;
+          border-radius: 50%;
+        }
+        .card-title {
+          text-align: center;
+        }
+      }
+    }
+  }
+}

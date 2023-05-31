@@ -1,0 +1,22 @@
+.contact-container {
+  .contact-row {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h2 {
+      text-align: center;
+    }
+
+    .contact-detail {
+      height: 300px;
+      width: 300px;
+      border: 1px solid rosybrown;
+      border-top-left-radius: 5rem;
+      border-top-right-radius: 5rem;
+      padding: 2rem;
+      background-color: antiquewhite;
+    }
+  }
+}
