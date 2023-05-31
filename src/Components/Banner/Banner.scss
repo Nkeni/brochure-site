@@ -1,12 +1,13 @@
 .banner-container {
   .banner-row {
     height: 60vh;
-    background-image: url(../../images/wall.jpg);
+    background-image: url(../../images/bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
   }
 }
