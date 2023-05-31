@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/brochure-site/static/css/main.46653cc3.css",
+    "main.js": "/brochure-site/static/js/main.604e94cd.js",
+    "static/media/bed.jpg": "/brochure-site/static/media/bed.9fdee1de21fc9da9fee1.jpg",
+    "static/media/bath.jpg": "/brochure-site/static/media/bath.55c290d28d87fcdbcfd9.jpg",
+    "static/media/bg.jpg": "/brochure-site/static/media/bg.d4df9c9aef99ba386596.jpg",
+    "static/media/living.jpg": "/brochure-site/static/media/living.f057e3e1550775c4b329.jpg",
+    "index.html": "/brochure-site/index.html",
+    "main.46653cc3.css.map": "/brochure-site/static/css/main.46653cc3.css.map",
+    "main.604e94cd.js.map": "/brochure-site/static/js/main.604e94cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46653cc3.css",
+    "static/js/main.604e94cd.js"
+  ]
+}
